@@ -60,13 +60,17 @@ BASE_URL="https://huggingface.co/mistralai/Mistral-Large-3-675B-Base-2512/resolv
 
 durch die url zu deinem model.
 
+---
+
 # 3. Start und Ende
 ImSkript ersetze 
 
 START=00001
 END=00272
 
-durch die angezeigte Nummerierung mit der richtigen Anzahl 0 davor fpr dein model.
+durch die angezeigte Nummerierung mit der richtigen Anzahl 0 davor für dein model.
+
+---
 
 # 4. Beachte den richtigen Dateinamen und Endnummerierung
 
